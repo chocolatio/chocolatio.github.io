@@ -1,0 +1,219 @@
+body {
+  background-color: rgba(183, 255, 147, 0.82);
+  font: 400 1em/1.38 'Comic Sans MS';
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  float: left;
+}
+
+.image {
+  display: block;
+  float: left;
+  clear: both;
+  height: auto;
+  overflow: hidden;
+}
+
+.text {
+  float: left;
+}
+
+.text-13 p,
+.text-6 p,
+.text-8 p,
+.text-9 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  height: 67px;
+  margin-top: 41px;
+  border-radius: 3px;
+  background-color: rgb(255, 255, 255);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(151, 88, 0);
+}
+
+.container-1 {
+  width: 800px;
+  height: 272px;
+  background: url('../images/f90ffb2f28211877ea2db2f11f6d5daf.jpeg') rgba(119, 57, 20, 0.96);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left top;
+}
+
+.container-2 {
+  clear: both;
+  width: 92.5%;
+  height: 6355px;
+  margin: 48px 0 0 5.375%;
+}
+
+.image-1 {
+  width: 610px;
+  margin: 12px 0 0 11.75676%;
+}
+
+.image-10 {
+  width: 589px;
+  margin: 28px 0 0 9.44257%;
+}
+
+.image-2 {
+  width: 610px;
+  margin: 27px 0 0 8.64865%;
+}
+
+.image-3 {
+  width: 647px;
+  margin: 67px 0 0 7.83784%;
+}
+
+.image-4 {
+  width: 610px;
+  margin: 25px 0 0 6.60473%;
+}
+
+.image-5 {
+  width: 610px;
+  margin: 37px 0 0 8.64865%;
+}
+
+.image-6 {
+  width: 557px;
+  margin: 49px 0 0 12.42821%;
+}
+
+.image-7 {
+  width: 500px;
+  margin: 30px 0 0 15.40541%;
+}
+
+.image-8 {
+  width: 500px;
+  margin: 21px 0 0 18.64865%;
+}
+
+.image-9 {
+  width: 500px;
+  margin: 16px 0 0 15.40541%;
+}
+
+.text-1 {
+  margin: 48px 0 0 41.875%;
+  font-size: 4.063em;
+  font-weight: normal;
+  color: rgb(255, 255, 255);
+}
+
+.text-10 {
+  clear: both;
+  margin-top: 48px;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-11 {
+  clear: both;
+  margin: 47px 0 0 1.61951%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-12 {
+  clear: both;
+  margin-top: 22px;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-13 {
+  clear: both;
+  margin: 23px 0 0 1.61951%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-2 {
+  margin: -4079px 0 0 3.125%;
+  font-size: 1em;
+  font-weight: normal;
+  color: rgb(0, 0, 0);
+}
+
+.text-3 {
+  margin: 25px 0 0 45.94595%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-4 {
+  clear: both;
+  margin: 12px 0 0 3.125%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-5 {
+  clear: both;
+  margin-top: 45px;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-6 {
+  clear: both;
+  margin-top: 30px;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-7 {
+  clear: both;
+  margin: 45px 0 0 2.31419%;
+  font-size: 1em;
+  font-weight: normal;
+  color: rgb(0, 0, 0);
+}
+
+.text-8 {
+  clear: both;
+  margin: 42px 0 0 1.61951%;
+  font-size: 1em;
+  font-weight: normal;
+  color: rgb(0, 0, 0);
+}
+
+.text-9 {
+  clear: both;
+  margin-top: 45px;
+  font-size: 1em;
+  font-weight: normal;
+  color: rgb(0, 0, 0);
+}
+
+.container ._button-1 {
+  clear: both;
+  z-index: 1;
+  width: 153px;
+  margin-left: 29.375%;
+}
+
+.container ._button-2 {
+  z-index: 3;
+  width: 155px;
+  margin-left: 3.875%;
+}
+
+.container ._button-3 {
+  z-index: 2;
+  width: 155px;
+  margin-left: 4.875%;
+}
